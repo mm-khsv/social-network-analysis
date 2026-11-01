@@ -1,0 +1,4 @@
+﻿network,nodes,edges,diameter,radius,average_degree,average_shortest_path_length,directed,average_clustering_coefficient,connected_components
+Karate Club,34,78,5,3,4.588235294117647,2.408199643493761,False,0.5706384782076823,1
+Dolphins,62,159,8,5,5.129032258064516,3.3569539925965097,False,0.2589582460550202,1
+Facebook,4039,88234,8,4,43.69101262688784,3.6925068496963913,False,0.6055467186200862,1

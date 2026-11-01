@@ -1,0 +1,366 @@
+﻿network,top_k,node,recurrence_count,metrics
+Karate Club,5,33,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,5,0,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,5,32,4,degree_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,5,2,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,5,1,3,degree_centrality; eigenvector_centrality; pagerank
+Karate Club,5,31,2,closeness_centrality; betweenness_centrality
+Karate Club,10,33,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,10,0,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,10,32,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,10,2,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,10,1,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,10,3,4,degree_centrality; closeness_centrality; eigenvector_centrality; pagerank
+Karate Club,10,31,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,10,13,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,10,23,2,degree_centrality; pagerank
+Karate Club,10,8,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,10,19,2,closeness_centrality; betweenness_centrality
+Karate Club,15,33,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,15,0,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,15,32,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,15,2,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,15,1,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,15,3,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,15,31,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,15,13,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,15,23,4,degree_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,15,8,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,15,27,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,15,29,3,degree_centrality; eigenvector_centrality; pagerank
+Karate Club,15,30,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,15,5,3,degree_centrality; betweenness_centrality; pagerank
+Karate Club,15,6,3,degree_centrality; betweenness_centrality; pagerank
+Karate Club,15,19,3,closeness_centrality; betweenness_centrality; eigenvector_centrality
+Karate Club,15,7,2,closeness_centrality; eigenvector_centrality
+Karate Club,20,33,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,20,0,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,20,32,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,20,2,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,20,1,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,20,3,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,20,31,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,20,13,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,20,23,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,20,8,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,20,27,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,20,29,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,20,30,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,20,5,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Karate Club,20,6,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Karate Club,20,7,4,degree_centrality; closeness_centrality; eigenvector_centrality; pagerank
+Karate Club,20,10,3,degree_centrality; closeness_centrality; pagerank
+Karate Club,20,19,4,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality
+Karate Club,20,24,3,degree_centrality; betweenness_centrality; pagerank
+Karate Club,20,25,3,degree_centrality; betweenness_centrality; pagerank
+Karate Club,20,28,3,closeness_centrality; betweenness_centrality; eigenvector_centrality
+Karate Club,20,9,3,closeness_centrality; betweenness_centrality; eigenvector_centrality
+Karate Club,25,33,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,25,0,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,25,32,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,25,2,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,25,1,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,25,3,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,25,31,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,25,13,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,25,23,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,25,8,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,25,27,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,25,29,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,25,30,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,25,5,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Karate Club,25,6,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Karate Club,25,7,4,degree_centrality; closeness_centrality; eigenvector_centrality; pagerank
+Karate Club,25,10,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Karate Club,25,19,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,25,24,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Karate Club,25,25,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Karate Club,25,28,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,25,4,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Karate Club,25,12,4,degree_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,25,14,3,degree_centrality; betweenness_centrality; eigenvector_centrality
+Karate Club,25,15,2,degree_centrality; eigenvector_centrality
+Karate Club,25,9,3,closeness_centrality; betweenness_centrality; eigenvector_centrality
+Karate Club,25,17,2,closeness_centrality; eigenvector_centrality
+Karate Club,25,21,2,closeness_centrality; eigenvector_centrality
+Karate Club,30,33,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,0,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,32,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,2,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,1,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,3,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,31,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,13,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,23,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,8,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,27,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,29,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,30,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,5,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,6,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,7,4,degree_centrality; closeness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,10,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,19,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,24,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Karate Club,30,25,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Karate Club,30,28,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,4,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,12,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,14,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,15,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,16,3,degree_centrality; betweenness_centrality; pagerank
+Karate Club,30,17,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,18,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,20,4,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality
+Karate Club,30,21,4,degree_centrality; closeness_centrality; eigenvector_centrality; pagerank
+Karate Club,30,9,3,closeness_centrality; betweenness_centrality; eigenvector_centrality
+Karate Club,30,26,2,eigenvector_centrality; pagerank
+Dolphins,5,Grin,4,degree_centrality; closeness_centrality; eigenvector_centrality; pagerank
+Dolphins,5,SN4,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,5,Topless,2,degree_centrality; eigenvector_centrality
+Dolphins,5,Scabs,2,degree_centrality; eigenvector_centrality
+Dolphins,5,Trigger,2,degree_centrality; pagerank
+Dolphins,5,SN100,2,closeness_centrality; betweenness_centrality
+Dolphins,5,SN9,2,closeness_centrality; betweenness_centrality
+Dolphins,10,Grin,4,degree_centrality; closeness_centrality; eigenvector_centrality; pagerank
+Dolphins,10,SN4,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,10,Topless,3,degree_centrality; eigenvector_centrality; pagerank
+Dolphins,10,Scabs,4,degree_centrality; closeness_centrality; eigenvector_centrality; pagerank
+Dolphins,10,Trigger,4,degree_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,10,Jet,3,degree_centrality; betweenness_centrality; pagerank
+Dolphins,10,Kringel,3,degree_centrality; closeness_centrality; betweenness_centrality
+Dolphins,10,Patchback,3,degree_centrality; eigenvector_centrality; pagerank
+Dolphins,10,Web,3,degree_centrality; betweenness_centrality; pagerank
+Dolphins,10,Beescratch,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Dolphins,10,SN100,2,closeness_centrality; betweenness_centrality
+Dolphins,10,SN9,3,closeness_centrality; betweenness_centrality; eigenvector_centrality
+Dolphins,10,DN63,2,closeness_centrality; betweenness_centrality
+Dolphins,15,Grin,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,15,SN4,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,15,Topless,4,degree_centrality; closeness_centrality; eigenvector_centrality; pagerank
+Dolphins,15,Scabs,4,degree_centrality; closeness_centrality; eigenvector_centrality; pagerank
+Dolphins,15,Trigger,4,degree_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,15,Jet,3,degree_centrality; betweenness_centrality; pagerank
+Dolphins,15,Kringel,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,15,Patchback,4,degree_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,15,Web,3,degree_centrality; betweenness_centrality; pagerank
+Dolphins,15,Beescratch,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Dolphins,15,Gallatin,2,degree_centrality; pagerank
+Dolphins,15,SN63,3,degree_centrality; eigenvector_centrality; pagerank
+Dolphins,15,SN9,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,15,Feather,2,degree_centrality; pagerank
+Dolphins,15,SN100,2,closeness_centrality; betweenness_centrality
+Dolphins,15,DN63,2,closeness_centrality; betweenness_centrality
+Dolphins,15,Oscar,2,closeness_centrality; betweenness_centrality
+Dolphins,15,TR99,2,closeness_centrality; eigenvector_centrality
+Dolphins,15,Stripes,3,betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,20,Grin,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,20,SN4,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,20,Topless,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,20,Scabs,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,20,Trigger,4,degree_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,20,Jet,3,degree_centrality; betweenness_centrality; pagerank
+Dolphins,20,Kringel,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,20,Patchback,4,degree_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,20,Web,3,degree_centrality; betweenness_centrality; pagerank
+Dolphins,20,Beescratch,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Dolphins,20,Gallatin,3,degree_centrality; betweenness_centrality; pagerank
+Dolphins,20,SN63,4,degree_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,20,SN9,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,20,Feather,2,degree_centrality; pagerank
+Dolphins,20,Haecksel,4,degree_centrality; closeness_centrality; eigenvector_centrality; pagerank
+Dolphins,20,Jonah,4,degree_centrality; closeness_centrality; eigenvector_centrality; pagerank
+Dolphins,20,SN100,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,20,Stripes,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,20,TR99,3,degree_centrality; closeness_centrality; eigenvector_centrality
+Dolphins,20,Upbang,3,degree_centrality; betweenness_centrality; pagerank
+Dolphins,20,DN63,2,closeness_centrality; betweenness_centrality
+Dolphins,20,Oscar,2,closeness_centrality; betweenness_centrality
+Dolphins,20,Double,2,closeness_centrality; eigenvector_centrality
+Dolphins,20,TSN103,2,closeness_centrality; eigenvector_centrality
+Dolphins,20,SN89,2,closeness_centrality; betweenness_centrality
+Dolphins,25,Grin,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,25,SN4,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,25,Topless,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,25,Scabs,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,25,Trigger,4,degree_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,25,Jet,3,degree_centrality; betweenness_centrality; pagerank
+Dolphins,25,Kringel,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,25,Patchback,4,degree_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,25,Web,3,degree_centrality; betweenness_centrality; pagerank
+Dolphins,25,Beescratch,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Dolphins,25,Gallatin,3,degree_centrality; betweenness_centrality; pagerank
+Dolphins,25,SN63,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,25,SN9,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,25,Feather,2,degree_centrality; pagerank
+Dolphins,25,Haecksel,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,25,Jonah,4,degree_centrality; closeness_centrality; eigenvector_centrality; pagerank
+Dolphins,25,SN100,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,25,Stripes,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,25,TR99,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,25,Upbang,3,degree_centrality; betweenness_centrality; pagerank
+Dolphins,25,Beak,3,degree_centrality; closeness_centrality; eigenvector_centrality
+Dolphins,25,DN21,2,degree_centrality; pagerank
+Dolphins,25,Double,4,degree_centrality; closeness_centrality; eigenvector_centrality; pagerank
+Dolphins,25,Hook,3,degree_centrality; closeness_centrality; eigenvector_centrality
+Dolphins,25,MN105,3,degree_centrality; closeness_centrality; eigenvector_centrality
+Dolphins,25,DN63,2,closeness_centrality; betweenness_centrality
+Dolphins,25,Oscar,2,closeness_centrality; betweenness_centrality
+Dolphins,25,TSN103,2,closeness_centrality; eigenvector_centrality
+Dolphins,25,Zap,2,closeness_centrality; eigenvector_centrality
+Dolphins,25,TR77,3,closeness_centrality; eigenvector_centrality; pagerank
+Dolphins,25,SN89,2,closeness_centrality; betweenness_centrality
+Dolphins,25,MN60,3,closeness_centrality; betweenness_centrality; eigenvector_centrality
+Dolphins,25,SN96,3,closeness_centrality; eigenvector_centrality; pagerank
+Dolphins,25,Shmuddel,2,betweenness_centrality; eigenvector_centrality
+Dolphins,30,Grin,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,30,SN4,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,30,Topless,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,30,Scabs,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,30,Trigger,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,30,Jet,3,degree_centrality; betweenness_centrality; pagerank
+Dolphins,30,Kringel,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,30,Patchback,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,30,Web,3,degree_centrality; betweenness_centrality; pagerank
+Dolphins,30,Beescratch,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Dolphins,30,Gallatin,3,degree_centrality; betweenness_centrality; pagerank
+Dolphins,30,SN63,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,30,SN9,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,30,Feather,2,degree_centrality; pagerank
+Dolphins,30,Haecksel,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,30,Jonah,4,degree_centrality; closeness_centrality; eigenvector_centrality; pagerank
+Dolphins,30,SN100,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,30,Stripes,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,30,TR99,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,30,Upbang,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Dolphins,30,Beak,4,degree_centrality; closeness_centrality; eigenvector_centrality; pagerank
+Dolphins,30,DN21,3,degree_centrality; betweenness_centrality; pagerank
+Dolphins,30,Double,4,degree_centrality; closeness_centrality; eigenvector_centrality; pagerank
+Dolphins,30,Hook,4,degree_centrality; closeness_centrality; eigenvector_centrality; pagerank
+Dolphins,30,MN105,4,degree_centrality; closeness_centrality; eigenvector_centrality; pagerank
+Dolphins,30,MN83,3,degree_centrality; eigenvector_centrality; pagerank
+Dolphins,30,SN96,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,30,TR77,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Dolphins,30,DN63,3,degree_centrality; closeness_centrality; betweenness_centrality
+Dolphins,30,Fish,2,degree_centrality; eigenvector_centrality
+Dolphins,30,Oscar,3,closeness_centrality; betweenness_centrality; eigenvector_centrality
+Dolphins,30,TSN103,2,closeness_centrality; eigenvector_centrality
+Dolphins,30,Zap,2,closeness_centrality; eigenvector_centrality
+Dolphins,30,SN89,2,closeness_centrality; betweenness_centrality
+Dolphins,30,MN60,3,closeness_centrality; betweenness_centrality; eigenvector_centrality
+Dolphins,30,PL,2,closeness_centrality; betweenness_centrality
+Dolphins,30,Shmuddel,2,betweenness_centrality; eigenvector_centrality
+Dolphins,30,Number1,2,betweenness_centrality; pagerank
+Dolphins,30,SN90,2,betweenness_centrality; pagerank
+Facebook,5,107,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Facebook,5,1684,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Facebook,5,1912,4,degree_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Facebook,5,3437,3,degree_centrality; betweenness_centrality; pagerank
+Facebook,5,0,2,degree_centrality; pagerank
+Facebook,10,107,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Facebook,10,1684,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Facebook,10,1912,4,degree_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Facebook,10,3437,3,degree_centrality; betweenness_centrality; pagerank
+Facebook,10,0,3,degree_centrality; betweenness_centrality; pagerank
+Facebook,10,58,2,closeness_centrality; betweenness_centrality
+Facebook,10,428,2,closeness_centrality; betweenness_centrality
+Facebook,10,348,2,closeness_centrality; pagerank
+Facebook,10,483,2,closeness_centrality; pagerank
+Facebook,10,414,2,closeness_centrality; pagerank
+Facebook,15,107,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Facebook,15,1684,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Facebook,15,1912,4,degree_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Facebook,15,3437,3,degree_centrality; betweenness_centrality; pagerank
+Facebook,15,0,3,degree_centrality; betweenness_centrality; pagerank
+Facebook,15,2266,2,degree_centrality; eigenvector_centrality
+Facebook,15,483,3,degree_centrality; closeness_centrality; pagerank
+Facebook,15,348,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Facebook,15,58,2,closeness_centrality; betweenness_centrality
+Facebook,15,428,2,closeness_centrality; betweenness_centrality
+Facebook,15,563,2,closeness_centrality; betweenness_centrality
+Facebook,15,414,3,closeness_centrality; betweenness_centrality; pagerank
+Facebook,15,376,2,closeness_centrality; pagerank
+Facebook,15,698,2,betweenness_centrality; pagerank
+Facebook,20,107,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Facebook,20,1684,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Facebook,20,1912,4,degree_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Facebook,20,3437,3,degree_centrality; betweenness_centrality; pagerank
+Facebook,20,0,3,degree_centrality; betweenness_centrality; pagerank
+Facebook,20,2266,2,degree_centrality; eigenvector_centrality
+Facebook,20,483,3,degree_centrality; closeness_centrality; pagerank
+Facebook,20,348,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Facebook,20,1985,2,degree_centrality; eigenvector_centrality
+Facebook,20,2233,2,degree_centrality; eigenvector_centrality
+Facebook,20,2142,2,degree_centrality; eigenvector_centrality
+Facebook,20,58,2,closeness_centrality; betweenness_centrality
+Facebook,20,428,2,closeness_centrality; betweenness_centrality
+Facebook,20,563,2,closeness_centrality; betweenness_centrality
+Facebook,20,414,3,closeness_centrality; betweenness_centrality; pagerank
+Facebook,20,376,2,closeness_centrality; pagerank
+Facebook,20,475,2,closeness_centrality; pagerank
+Facebook,20,1085,2,closeness_centrality; betweenness_centrality
+Facebook,20,698,2,betweenness_centrality; pagerank
+Facebook,20,686,2,betweenness_centrality; pagerank
+Facebook,20,3980,2,betweenness_centrality; pagerank
+Facebook,25,107,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Facebook,25,1684,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Facebook,25,1912,4,degree_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Facebook,25,3437,3,degree_centrality; betweenness_centrality; pagerank
+Facebook,25,0,3,degree_centrality; betweenness_centrality; pagerank
+Facebook,25,2543,2,degree_centrality; betweenness_centrality
+Facebook,25,2266,2,degree_centrality; eigenvector_centrality
+Facebook,25,483,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Facebook,25,348,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Facebook,25,1985,2,degree_centrality; eigenvector_centrality
+Facebook,25,2233,2,degree_centrality; eigenvector_centrality
+Facebook,25,2142,2,degree_centrality; eigenvector_centrality
+Facebook,25,2206,2,degree_centrality; eigenvector_centrality
+Facebook,25,2229,2,degree_centrality; eigenvector_centrality
+Facebook,25,58,2,closeness_centrality; betweenness_centrality
+Facebook,25,428,3,closeness_centrality; betweenness_centrality; pagerank
+Facebook,25,563,2,closeness_centrality; betweenness_centrality
+Facebook,25,171,2,closeness_centrality; betweenness_centrality
+Facebook,25,414,3,closeness_centrality; betweenness_centrality; pagerank
+Facebook,25,376,2,closeness_centrality; pagerank
+Facebook,25,475,2,closeness_centrality; pagerank
+Facebook,25,1085,2,closeness_centrality; betweenness_centrality
+Facebook,25,1577,2,closeness_centrality; betweenness_centrality
+Facebook,25,1718,2,closeness_centrality; betweenness_centrality
+Facebook,25,698,2,betweenness_centrality; pagerank
+Facebook,25,686,2,betweenness_centrality; pagerank
+Facebook,25,3980,2,betweenness_centrality; pagerank
+Facebook,30,107,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Facebook,30,1684,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Facebook,30,1912,5,degree_centrality; closeness_centrality; betweenness_centrality; eigenvector_centrality; pagerank
+Facebook,30,3437,3,degree_centrality; betweenness_centrality; pagerank
+Facebook,30,0,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Facebook,30,2543,2,degree_centrality; betweenness_centrality
+Facebook,30,1888,2,degree_centrality; pagerank
+Facebook,30,2266,2,degree_centrality; eigenvector_centrality
+Facebook,30,483,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Facebook,30,348,4,degree_centrality; closeness_centrality; betweenness_centrality; pagerank
+Facebook,30,1985,2,degree_centrality; eigenvector_centrality
+Facebook,30,2233,2,degree_centrality; eigenvector_centrality
+Facebook,30,2142,2,degree_centrality; eigenvector_centrality
+Facebook,30,2206,2,degree_centrality; eigenvector_centrality
+Facebook,30,2229,2,degree_centrality; eigenvector_centrality
+Facebook,30,2410,2,degree_centrality; eigenvector_centrality
+Facebook,30,2611,2,degree_centrality; eigenvector_centrality
+Facebook,30,2047,2,degree_centrality; pagerank
+Facebook,30,58,2,closeness_centrality; betweenness_centrality
+Facebook,30,428,3,closeness_centrality; betweenness_centrality; pagerank
+Facebook,30,563,3,closeness_centrality; betweenness_centrality; pagerank
+Facebook,30,171,2,closeness_centrality; betweenness_centrality
+Facebook,30,414,3,closeness_centrality; betweenness_centrality; pagerank
+Facebook,30,376,3,closeness_centrality; betweenness_centrality; pagerank
+Facebook,30,475,2,closeness_centrality; pagerank
+Facebook,30,1666,2,closeness_centrality; betweenness_centrality
+Facebook,30,1534,2,closeness_centrality; betweenness_centrality
+Facebook,30,1085,2,closeness_centrality; betweenness_centrality
+Facebook,30,1577,2,closeness_centrality; betweenness_centrality
+Facebook,30,1718,2,closeness_centrality; betweenness_centrality
+Facebook,30,1465,2,closeness_centrality; betweenness_centrality
+Facebook,30,698,2,betweenness_centrality; pagerank
+Facebook,30,686,2,betweenness_centrality; pagerank
+Facebook,30,3980,2,betweenness_centrality; pagerank
+Facebook,30,3830,2,betweenness_centrality; pagerank
