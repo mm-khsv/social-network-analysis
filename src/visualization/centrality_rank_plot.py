@@ -13,7 +13,7 @@ import pandas as pd
 # Paths
 # --------------------------------------------------
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parents[2]
 
 TAB = ROOT / "outputs" / "tables"
 FIG = ROOT / "outputs" / "figures"
@@ -79,7 +79,6 @@ def load_data():
         INPUT,
         encoding="utf-8-sig",
         dtype={"node": str},
-        float_precision="round_trip",
     )
 
     required = (

@@ -1,10 +1,10 @@
-import csv
+﻿import csv
 import time
 from pathlib import Path
 
 import networkx as nx
 
-BASE = Path(".")
+BASE = Path(__file__).resolve().parents[2]
 RAW = BASE / "data" / "raw"
 OUT = BASE / "outputs" / "tables"
 OUT.mkdir(parents=True, exist_ok=True)

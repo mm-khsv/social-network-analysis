@@ -6,9 +6,10 @@ import networkx as nx
 import pandas as pd
 import matplotlib.pyplot as plt
 
-RAW = Path("data/raw")
-FIG = Path("outputs/figures")
-TABLES = Path("outputs/tables")
+ROOT = Path(__file__).resolve().parents[2]
+RAW = ROOT / "data" / "raw"
+FIG = ROOT / "outputs" / "figures"
+TABLES = ROOT / "outputs" / "tables"
 
 FIG.mkdir(parents=True, exist_ok=True)
 TABLES.mkdir(parents=True, exist_ok=True)

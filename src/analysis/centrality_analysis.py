@@ -5,8 +5,9 @@ from pathlib import Path
 import networkx as nx
 import pandas as pd
 
-RAW = Path("data/raw")
-OUT = Path("outputs/tables")
+ROOT = Path(__file__).resolve().parents[2]
+RAW = ROOT / "data" / "raw"
+OUT = ROOT / "outputs" / "tables"
 OUT.mkdir(parents=True, exist_ok=True)
 
 TOP_SIZES = [5, 10, 15, 20, 25, 30]

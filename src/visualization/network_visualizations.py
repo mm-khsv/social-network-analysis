@@ -12,7 +12,7 @@ import numpy as np
 # CONFIGURATION
 # ============================================================
 
-BASE = Path(__file__).resolve().parent.parent
+BASE = Path(__file__).resolve().parents[2]
 
 RAW = BASE / "data" / "raw"
 TABLES = BASE / "outputs" / "tables"
