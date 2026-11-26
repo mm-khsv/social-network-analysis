@@ -1,0 +1,16 @@
+﻿graph_id,model,nodes,edges,seed,connected,components,attempt
+ER_1,ER,34,72,2026,True,1,1
+ER_2,ER,34,79,2126,False,2,1
+ER_3,ER,34,74,2226,True,1,1
+ER_4,ER,34,72,2326,False,2,1
+ER_5,ER,34,71,2426,True,1,1
+WS_1,WS,34,68,3026,True,1,1
+WS_2,WS,34,68,3126,True,1,1
+WS_3,WS,34,68,3226,True,1,1
+WS_4,WS,34,68,3326,True,1,1
+WS_5,WS,34,68,3426,True,1,1
+BA_1,BA,34,64,4026,True,1,1
+BA_2,BA,34,64,4126,True,1,1
+BA_3,BA,34,64,4226,True,1,1
+BA_4,BA,34,64,4326,True,1,1
+BA_5,BA,34,64,4426,True,1,1
